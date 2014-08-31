@@ -1,0 +1,721 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Auth",
+				"AuthenticationService"
+			],
+			[
+				"E",
+				"ERROR"
+			],
+			[
+				"log",
+				"log4javascript"
+			],
+			[
+				"cal",
+				"calculateShipping	fn. this"
+			],
+			[
+				"re",
+				"required=\"true\"	required"
+			],
+			[
+				"disa",
+				"disableCheckoutSubmit"
+			],
+			[
+				"ini",
+				"initializePayment"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"disable",
+				"disableCheckout"
+			],
+			[
+				"placeA",
+				"placeAnotherOrder"
+			],
+			[
+				"or",
+				"original-ingredients"
+			],
+			[
+				"serializ",
+				"serializeJSON"
+			],
+			[
+				"waiting",
+				"waitingOrders"
+			],
+			[
+				"throw",
+				"throwInvalidDocumentException"
+			],
+			[
+				"addOrder",
+				"addOrderCallback"
+			],
+			[
+				"sendOrder",
+				"sendOrderCallback"
+			],
+			[
+				"Strip",
+				"StripeCheckout"
+			],
+			[
+				"rec",
+				"receiveTokenFromStripe"
+			],
+			[
+				"OrderForm",
+				"OrderFormData"
+			],
+			[
+				"get",
+				"getWaitingOrders"
+			],
+			[
+				"wait",
+				"waitingOrdersJSON"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"set",
+				"arraySet	fn. (cfscript)"
+			],
+			[
+				"h3",
+				"h3	Tag"
+			],
+			[
+				"label",
+				"label	<label> with <input>"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"h1",
+				"h1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"writeDump",
+				"Snippet: writeDump"
+			],
+			[
+				"Snippet: ",
+				"Snippet: writeDump"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 111.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/webroot/brianhochstein.com"
+	],
+	"file_history":
+	[
+		"/C/webroot/brianhochstein.com/brianhochstein.sublime-project",
+		"/C/webroot/brianhochstein.com/index.html",
+		"/C/webroot/brianhochstein.com/contact.html",
+		"/C/webroot/brianhochstein.com/contact-brian/index.html",
+		"/C/webroot/sfeldkamp.github.io/_layouts/default.html",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/polymer/index.html",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/index.html",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/components/tasty/admin-layout/admin-layout.html",
+		"/C/Users/Seth Feldkamp/Downloads/polymer-tutorial-master/polymer-tutorial-master/finished/index.html",
+		"/C/Users/Seth Feldkamp/Downloads/polymer-tutorial-master/polymer-tutorial-master/finished/post-card.html",
+		"/C/Users/Seth Feldkamp/Downloads/polymer-tutorial-master/polymer-tutorial-master/finished/post-list.html",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/components/core-header-panel/core-header-panel.html",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/components/x.txt",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/OrderAPI.cfc",
+		"/C/railo/tomcat/conf/server.xml",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/WEB-INF/railo/railo-web.xml.cfm",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/orders/index.html",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/index.js",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/orders/orders.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/lib/tasty/OrderService.cfc",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/_lib/tasty/OrderAPI.js",
+		"/C/webroot/tastynuggetsgranola/data/documents/Order/147B8E20-3F39-4C4B-9545F55040E01B81",
+		"/C/webroot/tastynuggetsgranola/data/documents/Order/06E0BEB8-979E-4D7A-9A020380E1D0E1E4",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/lib/tasty/Authentication/AuthenticationService.cfc",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/index.html",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/_lib/jquery.cookie.js/jquery.cookie.js",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/_lib/zepto/zeptop.cookie.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/Authentication.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/Application.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testing/specs/AuthenticationServiceTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testing/Application.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/config/config.cfm",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/welcome/index.html",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/config/config.cfm",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/orders.html",
+		"/C/webroot/tastynuggetsgranola/.gitignore",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testing/specs/APITest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/lib/tasty/Shipping/ShippingService.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/lib/tasty/Shipping/USPSBoxChooser.cfc",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/config/config.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testing/browser/index.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testing/specs/OrderServiceTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testing/specs/ShippingServiceTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testing/specs/USPSBoxChooserTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Factory/Factory.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Order/Order.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Order/OrderRepository.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/OrderService.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Product/productRepository.cfc",
+		"/C/Users/Seth Feldkamp/Dropbox/sublimeText2/Data/Packages/User/Preferences.sublime-settings",
+		"/C/webroot/tastynuggetsgranola/tastynuggetsgranola.sublime-project",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/lib/tasty/purchase.js",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/lib/tasty/OrderAPI.js",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/lib/tasty/purchaseStep.js",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/css/style.css",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/config/config.js",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/lib/tasty/OrderAPI.js",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/css/moonrise.css",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/config/config.json",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/config/developement.json",
+		"/C/webroot/tastynuggetsgranola/README",
+		"/C/webroot/tastynuggetsgranola/todo.txt",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/OrderAPI.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/config/ServerConfig.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/config/client/developement.json",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/config/client.json",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/config/README",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/config/api.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/config/api.cfm",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/js/purchase.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/testbox/test-harness/test.xml",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/Log.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/Log.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/log4javascript/test",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/log4javascript/log4javascript.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/Error.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Shipping/ShippingService.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/USPS-CFC/usps.cfc",
+		"/C/webroot/tastynuggetsgranola/data/documents/Order/011C1D8D-DFD3-4769-9A71B729A418011D",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/stripe/Stripe.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/Stripe.cfc",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/js/purchaseStep.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Order/orderPrivate.cfm",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/js/index.js",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Shipping/Gateways/USPS.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Shipping/USPSBoxChooser.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Product/Product.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Shipping/USPSRateV4Gateway.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Product/productPrivate.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/OrderForm/OrderFormRepository.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/OrderForm/OrderForm.cfc",
+		"/C/webroot/tastynuggetsgranola/admin.tastynuggetsgranola.com/style.css",
+		"/C/webroot/tastynuggetsgranola/www.tastynuggetsgranola.com/moonrise/index.html",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/orderServicePrivate.cfm",
+		"/C/webroot/tastynuggetsgranola/data/documents/OrderForm/A5EBECD4-D8D4-4911-9773D8AD393DA86A",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/OrderForm/orderFormPrivate.cfm",
+		"/C/webroot/tastynuggetsgranola/data/documents/OrderForm/4B614261-A2D3-4A2E-9A763FD9176838F9",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testbox/specs/APITest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testbox/Application.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testbox/browser/index.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testbox/specs/OrderServiceTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testbox/runner/index.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testbox/testdata/indexes/OpenOrders",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/model/index.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/model/Application.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/testbox/specs/FactoryTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/test/Application.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/test/browser/index.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/testbox/browser/index.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/test/index.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/munchy/Factory/FactoryTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/testbox/system/testing/TestBox.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/test/testRunner.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/test/testBrowser.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/com/sfeldkamp/munchy/Factory/FactoryTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/com/sfeldkamp/ObjectTest/includes/templates/testResult.cfm",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/com/sfeldkamp/ObjectTest/resources/Test.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/com/sfeldkamp/ObjectTest/TestRunner.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/com/sfeldkamp/munchy/OrderForm/OrderFormTest.cfc",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/WebContent/test/remoteTestRunner.cfc",
+		"/C/railo/tomcat/conf/web.xml",
+		"/C/apache-tomcat-7.0.27/conf/server.xml",
+		"/C/apache-tomcat-7.0.27/conf/context.xml",
+		"/C/apache-tomcat-7.0.27/conf/web.xml",
+		"/C/webroot/tastynuggetsgranola/data/indexes/OpenOrders",
+		"/C/webroot/tastynuggetsgranola/api.tastynuggetsgranola.com/model/com/sfeldkamp/munchy/OrderForm/OrderForm.cfc",
+		"/C/webroot/tastynuggetsgranola/data/documents/OrderForm/B4/F9/B4F9DC8E-51EF-4E9A-9DC0E0F78BD880A8"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com\\WebContent\\WEB-INF, -*.bak",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com\\WebContent\\WEB-INF -*.bak",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com\\WebContent\\WEB-INF",
+			"C:\\webroot\\tastynuggetsgranola\\",
+			"C:\\webroot\\tastynuggetsgranola\\data",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com,-*/WEB-INF/*",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com,-*\\WEB-INF\\*",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com,-*\\WEB-INF\\",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com,-WEB-INF\\",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com,-WEB-INF\\*.*",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com,-*\\WEB-INF\\*",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com",
+			"C:\\webroot\\tastynuggetsgranola\\www.tastynuggetsgranola.com",
+			"C:\\webroot\\tastynuggetsgranola\\",
+			"C:\\webroot\\tastynuggetsgranola\\api.tastynuggetsgranola.com\\WebContent",
+			"C:\\webroot\\tastynuggetsgranola\\",
+			"C:\\webroot\\tastynuggetsgranola\\data\\documents\\OrderForm",
+			"-*.min.*",
+			"-*.min.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Tasty Nuggets",
+			"tasty",
+			"/tastynuggetsgranola",
+			"server.xml",
+			"receiveCODPickupOrder",
+			"calculateShipping",
+			"admin order",
+			"$.cookie",
+			"$.",
+			"https:\\\\",
+			"DataOutputStream",
+			"urlParameters",
+			"    ",
+			"   ",
+			"  ",
+			"new Stripe",
+			");",
+			"(",
+			"('",
+			"(",
+			"model",
+			"munchy",
+			"this.",
+			"this.config",
+			"this.Stripe",
+			"$step",
+			"this.",
+			"configureLogging",
+			"http:",
+			"http://fonts.",
+			"http://",
+			"https://",
+			"css",
+			"self.OrderAPI",
+			"Stripe",
+			"OrderAPI.js",
+			"https",
+			"purchase.js",
+			"zepto.js",
+			"log4javascript.js",
+			"log4javascript",
+			"https://loc/",
+			":8888",
+			"setSendAll",
+			"http://loc",
+			"http:",
+			"http",
+			"errors",
+			"orderAPICallback",
+			"showError",
+			"this",
+			"self",
+			"JSONLayout",
+			"EMAIL",
+			"renderOpenOrders",
+			"OrderAPI",
+			"shipping.gateway",
+			"gateway.USPS",
+			"gateway",
+			"USPS",
+			"email",
+			"Stripe",
+			"seasonal",
+			"Seasonal",
+			"seasonal",
+			"Seasonal",
+			"seasonal",
+			"seasona",
+			"Seasona",
+			"seasona",
+			"document",
+			"calculatePrice",
+			"amount",
+			".amount",
+			".total",
+			".total.amount",
+			"billing",
+			"Billing",
+			"billing",
+			"Billing",
+			"log",
+			"parseInt",
+			"zip",
+			"OrderAPI",
+			"orderAPI",
+			"OrderAPI",
+			"submit",
+			"calculateShipping",
+			"parseResponse",
+			"uspsContainerKey",
+			"container",
+			"containers",
+			"box",
+			"required",
+			"validateQuantity",
+			"purchase-page",
+			"PURCHASE-STEP-SHIPPING",
+			"purchase-step-shipping",
+			"$(\"#purchase-step-shipping\")",
+			"text-logo",
+			"picture-block",
+			"z-index",
+			"logo",
+			"body",
+			"\n/*",
+			"body",
+			"logo",
+			"header",
+			"}\n",
+			"Header",
+			"header",
+			"Header",
+			"header",
+			"Header",
+			"header",
+			"/*",
+			".fixed",
+			"	.",
+			".fixed",
+			"}",
+			".fixed #header",
+			"#home",
+			"home",
+			"chocolate",
+			"original",
+			",",
+			"section-wrap",
+			"seven"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"lib",
+			"tasty",
+			"/",
+			"https://loc",
+			"-page,",
+			"home-1",
+			"id=",
+			"Product",
+			"purchase",
+			"seasonal",
+			"chocolate",
+			"original",
+			"home",
+			"	",
+			":",
+			"",
+			"	",
+			"(",
+			"",
+			"getDocument()[",
+			"",
+			"requireString(",
+			"16oz/$8.00",
+			"OpenOrders",
+			"listOpenOrders",
+			"self.",
+			"order",
+			"[index]",
+			"rotator-16",
+			"chocolate-16",
+			"original-16",
+			"Shipping",
+			"a",
+			"purchase",
+			"Purchase",
+			"a"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 88.0
+	},
+	"project": "brianhochstein.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"orderapi.cfc",
+				"api.tastynuggetsgranola.com/WebContent/OrderAPI.cfc"
+			],
+			[
+				"orderapi",
+				"admin.tastynuggetsgranola.com/_lib/tasty/OrderAPI.js"
+			],
+			[
+				"moonrise.",
+				"www.tastynuggetsgranola.com/css/moonrise.css"
+			],
+			[
+				"order",
+				"api.tastynuggetsgranola.com/model/munchy/Order/Order.cfc"
+			],
+			[
+				"orderser",
+				"api.tastynuggetsgranola.com/model/munchy/OrderService.cfc"
+			],
+			[
+				"styl",
+				"www.tastynuggetsgranola.com/css/style.css"
+			],
+			[
+				"index.htm",
+				"www.tastynuggetsgranola.com/index.html"
+			],
+			[
+				"css",
+				"www.tastynuggetsgranola.com/css/style.css"
+			],
+			[
+				"usps",
+				"api.tastynuggetsgranola.com/model/munchy/Shipping/USPSBoxChooser.cfc"
+			],
+			[
+				"style.",
+				"www.tastynuggetsgranola.com/css/style.css"
+			],
+			[
+				"style.css",
+				"admin.tastynuggetsgranola.com/style.css"
+			],
+			[
+				"orderservice",
+				"api.tastynuggetsgranola.com/model/munchy/OrderService.cfc"
+			],
+			[
+				"orderform",
+				"api.tastynuggetsgranola.com/model/munchy/OrderForm/OrderForm.cfc"
+			],
+			[
+				"orderfor",
+				"api.tastynuggetsgranola.com/model/com/sfeldkamp/munchy/OrderForm/OrderForm.cfc"
+			],
+			[
+				"factory",
+				"api.tastynuggetsgranola.com/model/com/sfeldkamp/munchy/Factory/Factory.cfc"
+			],
+			[
+				"snippet",
+				"/C/Users/Seth Feldkamp/AppData/Roaming/Sublime Text 2/Packages/User/snippets/writeDump.sublime-snippet"
+			],
+			[
+				"factor",
+				"api.tastynuggetsgranola.com/model/com/sfeldkamp/munchy/Factory/Factory.cfc"
+			],
+			[
+				"repos",
+				"api.tastynuggetsgranola.com/model/com/sfeldkamp/munchy/OrderForm/OrderFormRepository.cfc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\webroot\\sethfeldkamp.com\\sethfeldkamp.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
